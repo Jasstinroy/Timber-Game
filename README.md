@@ -62,22 +62,6 @@ font/            → Font file (KOMIKAP_.ttf)
 
 ---
 
-## ▶️ How to Run
-
-1. Install SFML
-2. Compile:
-
-   ```bash
-   g++ main.cpp -o timber -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
-   ```
-3. Run:
-
-   ```bash
-   ./timber
-   ```
-
----
-
 ## 🎮 Gameplay Flow
 
 ```id="1h9p0q"
@@ -102,21 +86,3 @@ Game Over (hit branch / time out)
 
 ---
 
-## 🚀 Future Improvements
-
-* Add background music 🎵
-* Add difficulty levels
-* Add combo scoring system
-* Add mobile/touch controls
-
----
-
-## 🧾 Summary
-
-This project demonstrates how to build a **real-time 2D game using SFML**, including animations, physics, and user interaction.
-
----
-
-## 👨‍💻 Author
-
-Your Name
